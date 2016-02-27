@@ -1,4 +1,5 @@
 # BSRBulb
+<img align="right" src="https://raw.githubusercontent.com/diacode/bsr_bulb/master/web/bsr_bulb.jpg", width="400">
 
 An Elixir library for interacting with a [BSR Smart Bulb](https://www.youtube.com/watch?v=bFEzDolYsK0)
 that is connected via bluetooth. This an RGB LED Bulb with built-in speaker.
