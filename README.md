@@ -10,6 +10,8 @@ them are:
 * [1byone](http://www.amazon.es/inal%C3%A1mbrica-multicolor-aplicaci%C3%B3n-controlada-compartible/dp/B00X9NCS00/ref=cm_cr_pr_product_top?ie=UTF8)
 * ...
 
+In order to reverse engineering the Bluetooth protocol of the bulb we used the Bluetooth HCI snoop log from Android, to capture the bluetooth packets between the [mobile app](http://www.chbsr.com/index.asp?classid=17) and the smart bulb, and Wireshark to analyze the packets. You can read more about this approach [here](http://www.guillier.org/blog/2015/04/reverse-engineering-of-a-ble-bulb/).
+
 ## Supported features
 
 * Switch on
