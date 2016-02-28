@@ -2,9 +2,9 @@
 <img align="right" src="https://raw.githubusercontent.com/diacode/bsr_bulb/master/web/bsr_bulb.jpg", width="400">
 
 An Elixir library for interacting with a [BSR Smart Bulb](https://www.youtube.com/watch?v=bFEzDolYsK0)
-that is connected via bluetooth. This an RGB LED Bulb with built-in speaker.
+that is connected via bluetooth. This is an RGB LED Bulb with built-in speaker.
 
-It seems there are others brands that sell this bulb under his own name. Some of
+It seems there are others brands that sell this bulb under their own name. Some of
 them are:
 
 * [1byone](http://www.amazon.es/inal%C3%A1mbrica-multicolor-aplicaci%C3%B3n-controlada-compartible/dp/B00X9NCS00/ref=cm_cr_pr_product_top?ie=UTF8)
