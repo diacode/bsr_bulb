@@ -38,5 +38,4 @@ BSRBulb.Client.switch_off(bulb)
 
 ## Acknowledgments
 
-This library was based on the [Sphero](https://github.com/knewter/sphero) library. While the bulb and Sphero are different devices both are
-controlled through Bluetooth using [erlang-serial](https://github.com/knewter/erlang-serial).
+This library was based on the [Sphero](https://github.com/knewter/sphero) library. While the bulb and Sphero are different devices, both are controlled through Bluetooth using [erlang-serial](https://github.com/knewter/erlang-serial).
