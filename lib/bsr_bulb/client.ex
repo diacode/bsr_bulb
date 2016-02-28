@@ -27,7 +27,6 @@ defmodule BSRBulb.Client do
 
   defp do_request(request_bytes, state) do
     send(state.device, {:send, request_bytes})
-    # receive 5 integers FIXME: Only doing 1 right now
     _response = receive do
       {:data, data} -> IO.inspect data
     after
