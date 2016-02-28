@@ -21,7 +21,7 @@ In order to reverse engineering the Bluetooth protocol of the bulb we used the B
 ## Usage
 
 On Mac OS X, pair your computer with your bulb by using the normal Bluetooth
-device explorer. One connected, you should hear a sound coming from the
+device explorer. Once connected, you should hear a sound coming from the
 bulb's speaker.
 
 Then you need to find the serial port for your bulb. You can use `ls /dev | grep tty`. For the 1byone version the port is `/dev/tty.1byoneBulb-SerialPortSe`.
